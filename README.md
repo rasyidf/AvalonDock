@@ -1,3 +1,27 @@
+# AvalonDock
+
+
+[![Build status](https://ci.appveyor.com/api/projects/status/kq2wyupx5hm7fok2/branch/master?svg=true)](https://ci.appveyor.com/project/Dirkster99/avalondock/branch/master)[![Release](https://img.shields.io/github/release/Dirkster99/avalondock.svg)](https://github.com/Dirkster99/avalondock/releases/latest)&nbsp; [![Continuous Integration](https://img.shields.io/badge/CI-Artifact-blue)](https://ci.appveyor.com/project/Dirkster99/AvalonDock/build/artifacts)
+
+<a href="https://github.com/Dirkster99/AvalonDock/issues">
+    <img src="https://img.shields.io/github/issues-raw/Dirkster99/AvalonDock.svg?style=flat-square">
+</a>
+<a href="https://github.com/Dirkster99/AvalonDock/issues">
+    <img src="https://img.shields.io/github/issues-closed-raw/Dirkster99/AvalonDock.svg?style=flat-square">
+</a> 
+
+<a href="https://github.com/Dirkster99/AvalonDock/issues">
+    <img src="https://img.shields.io/github/issues-pr-raw/Dirkster99/AvalonDock.svg?style=flat-square">
+</a>
+<a href="https://github.com/Dirkster99/AvalonDock/issues">
+    <img src="https://img.shields.io/github/issues-pr-closed-raw/Dirkster99/AvalonDock.svg?style=flat-square">
+</a>
+  
+
+Support this project with a :star: -report an issue, or even better, place a pull request :mailbox: :blush:
+
+My projects <a href="https://dirkster99.github.io/Edi/">Edi</a>, <a href="https://github.com/Dirkster99/Aehnlich">Aehnlich</a>, and [many others](https://github.com/search?p=4&q=%22dirkster.avalondock%22&type=Code) (open source or commercial) are powered by this project.
+
 | Downloads                                                                                                                                               | NuGet Packages
 | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------
 | [![NuGet](https://img.shields.io/nuget/dt/Dirkster.AvalonDock.svg)](http://nuget.org/packages/Dirkster.AvalonDock)                                      | [Dirkster.AvalonDock](http://nuget.org/packages/Dirkster.AvalonDock)
@@ -8,28 +32,7 @@
 | [![NuGet](https://img.shields.io/nuget/dt/Dirkster.AvalonDock.Themes.VS2013.svg)](http://nuget.org/packages/Dirkster.AvalonDock.Themes.VS2013)          | [Dirkster.AvalonDock.Themes.VS2013](http://nuget.org/packages/Dirkster.AvalonDock.Themes.VS2013) (see [Wiki](https://github.com/Dirkster99/AvalonDock/wiki/WPF-VS-2013-Dark-Light-Demo-Client) )
 
 ![Net4](https://badgen.net/badge/Framework/.Net&nbsp;4/blue) ![NetCore3](https://badgen.net/badge/Framework/NetCore&nbsp;3/blue) ![Net4](https://badgen.net/badge/Framework/.NET&nbsp;5/blue)
-
-## Master Branch
-[![Build status](https://ci.appveyor.com/api/projects/status/kq2wyupx5hm7fok2/branch/master?svg=true)](https://ci.appveyor.com/project/Dirkster99/avalondock/branch/master)[![Release](https://img.shields.io/github/release/Dirkster99/avalondock.svg)](https://github.com/Dirkster99/avalondock/releases/latest)&nbsp;[Continuous Integration](https://ci.appveyor.com/project/Dirkster99/AvalonDock/build/artifacts)
-
-<a href="https://github.com/Dirkster99/AvalonDock/issues">
-    <img src="https://img.shields.io/github/issues-raw/Dirkster99/AvalonDock.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/Dirkster99/AvalonDock/issues">
-    <img src="https://img.shields.io/github/issues-closed-raw/Dirkster99/AvalonDock.svg?style=flat-square">
-  </a><br/>
-
-<a href="https://github.com/Dirkster99/AvalonDock/issues">
-    <img src="https://img.shields.io/github/issues-pr-raw/Dirkster99/AvalonDock.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/Dirkster99/AvalonDock/issues">
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/Dirkster99/AvalonDock.svg?style=flat-square">
-  </a>
-  
-# AvalonDock
-Support this project with a :star: -report an issue, or even better, place a pull request :mailbox: :blush:
-
-My projects <a href="https://dirkster99.github.io/Edi/">Edi</a>, <a href="https://github.com/Dirkster99/Aehnlich">Aehnlich</a>, and [many others](https://github.com/search?p=4&q=%22dirkster.avalondock%22&type=Code) (open source or commercial) are powered by this project.
+ 
 
 AvalonDock is a WPF Document and Tool Window layout container that is used to arrange documents
 and tool windows in similar ways than many well known IDEs, such as, Eclipse, Visual Studio,
